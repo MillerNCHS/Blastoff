@@ -16,7 +16,7 @@
     "print(&quot;Two...&quot;)\n" +
     "print(&quot;One...&quot;)\n" +
     "print(&quot;Blastoff!&quot;)\n" +
-    "input(&quot;\n\nPress the enter key to exit&quot;)";
+    "input(&quot;Press the enter key to exit&quot;)";
   var parsonsPuzzle = new ParsonsWidget({
     "sortableId": "sortable",
     "max_wrong_lines": 10,
